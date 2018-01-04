@@ -1,2 +1,2 @@
 this is a directory version control system.
-git is free software du ming.
+git is free software du ming hai.
